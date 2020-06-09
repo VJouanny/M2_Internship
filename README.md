@@ -2,7 +2,7 @@
 
 ## Short description of the codes:
 
-* 2modeSqueezing.ipynb
+* 2modeSqueezing.ipynb\
   Code used to obtain numerically the covariance matrix for the two-mode squeezed states from a quantum mechanical point of view using [QuTiP](https://github.com/qutip/qutip)
   
 * CalibrationDataAnalysisFakeData.ipynb
