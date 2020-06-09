@@ -1,3 +1,4 @@
-# M2_Internship
+# M2 Internship
+# Two-mode squeezing in Traveling Wave Parametric Amplifiers.
 
-Bundle of programs made during my internship.
+## Short description of the codes:
